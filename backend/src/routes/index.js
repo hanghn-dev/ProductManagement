@@ -4,5 +4,4 @@ const routes = Router()
 
 routes.use("/products", productRoutes)
 
-
 export default routes

@@ -23,7 +23,6 @@ const ProductManagement = () => {
     console.log(error);
   }
   }
-
   return (
     <>
       <div>
